@@ -23,7 +23,15 @@ The application will prompt the user for information about the team manager and 
 3. At command prompt, enter 'node app.js' and wait until Node CLI application loads.
 4. When asked, enter details to build innovation team
 5. Wait for program to process entered details and display Success!
-6. Open team.html to display your Innovation Team members!
+6. Open team.html to display your Innovation Team!
+
+Screen_images folder contains two png screen images of working application
+Name of the images are:
+
+1. image_CLI-application-functionality.png
+2. image_Innovation-Team.png
+
+Note:
 
 To check if npm is installed enter at command prompt: npm -v
 6.13.4 should be displayed.
@@ -37,7 +45,6 @@ MANY HOURS were spent developing and TESTING this software to ensure it function
 
 The application is built with the following directory structure:
 
-```
 > lib/                                 // classes and helper code
 > node_modules
 > output/                         // rendered output
@@ -52,7 +59,7 @@ JS app.js                            // Runs the application
 { } package.json
     .gitignore
 README.md     
-```
+
 Technologies used:
 * html
 * JavaScript
