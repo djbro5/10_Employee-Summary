@@ -44,7 +44,7 @@ v12.16.1 should be displayed.
 MANY HOURS were spent developing and TESTING this software to ensure it functions correctly as per user story.
 
 The application is built with the following directory structure:
-
+'''
 > lib/                                 // classes and helper code
 > node_modules
 > output/                         // rendered output
@@ -58,7 +58,8 @@ JS app.js                            // Runs the application
 { } package-lock.json
 { } package.json
     .gitignore
-README.md     
+README.md  
+'''   
 
 Technologies used:
 * html
